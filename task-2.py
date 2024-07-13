@@ -1,6 +1,6 @@
 ''' Write a Python program that imports the math module and uses the sqrt
 function. '''
 
-from math import pow
+from math import sqrt
 
-print(pow(3, 2))
+print(sqrt(3))
